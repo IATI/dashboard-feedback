@@ -37,8 +37,8 @@ Comments are public. You will need a free
 The dashboard explains how an assessment is reached, lists every indicator and
 its thresholds, and flags what is still provisional:
 
-- **[How the assessment works](https://iati.github.io/dashboard-frontend/about)**
-- [Reimagining Data Quality: A User Centric Approach — Proposal for Consultation](https://iatistandard.org/en/news/reimagining-data-quality-consultation/)
+- **[How the assessment works](https://preview-dashboard.iatistandard.org/about)**
+- [Reimagining Data Quality: A User Centric Approach — Proposal for Consultation](https://connect.iatistandard.org/post/reimagining-data-quality-consultation-new-metrics-and-dashbaord-13842373)
 
 Organisations publishing to IATI can also sign in to the dashboard to see their
 own preliminary assessment.
