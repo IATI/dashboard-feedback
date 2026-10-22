@@ -4,7 +4,7 @@ This repository collects feedback on the **draft IATI Data Quality Framework**,
 which is being used to assess the quality of the data organisations publish to
 IATI.
 
-**Comments are open until 16 November 2026.**
+**Comments are open until 17 November 2026.**
 
 ## How to comment
 
